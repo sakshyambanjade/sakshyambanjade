@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakshyam Banjade</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/k98FCNSsECUxfvEwge/giphy.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=banjadesakshyam&label=Profile%20views&color=0e75b6&style=flat" alt="banjadesakshyam" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banjadesakshyam" alt="banjadesakshyam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sakshyambanjade" target="blank"><img src="https://img.shields.io/twitter/follow/sakshyambanjade?logo=twitter&style=for-the-badge" alt="sakshyambanjade" /></a> </p>
 
@@ -12,6 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/sakshyambanjade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshyambanjade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakshyam banjade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshyam banjade" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sakshyam banjade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sakshyam banjade" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sakshyambanjade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshyambanjade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

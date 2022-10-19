@@ -1,3 +1,4 @@
+![logo](https://i.ibb.co/7r6mnCh/saskhyam.png)
 <h1 align="center">Hi 👋, I'm Sakshyam Banjade</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 

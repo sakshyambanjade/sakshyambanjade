@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sakshyam Banjade</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<p align="left"> <img src="https://photos.google.com/photo/AF1QipMTb-A6_ELUMtoCwCRL8DWfgiaChqFNtTzE6cy1" /> </p>
+<p align="left"> <img src="https://lh3.googleusercontent.com/pw/AL9nZEWIXVoMKQ0jAYa0bODtRwtBgbx3F7yKWR9aogNFf5aTY3-r2zU1l_FaN7OpWzSE9cSirUBJno5vyPUaj3JcFKh2gIWcGjwJeCGbKoXbCLzOdBRrX8Ss49MLrBJezeuIBK6e1mxzFVFLhGqEU2bTdII=w958-h537-no" /> </p>
 
 <h3 align="left">Tools and Languages I Use:</h3>
 <p align="left"> 

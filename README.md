@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sakshyam Banjade</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<p align="left"> <img src="https://im5.ezgif.com/tmp/ezgif-5-bb74724f1b.gif" /> </p>
+<p align="left"> <img src="https://photos.google.com/photo/AF1QipMTb-A6_ELUMtoCwCRL8DWfgiaChqFNtTzE6cy1" /> </p>
 
 <h3 align="left">Tools and Languages I Use:</h3>
 <p align="left"> 

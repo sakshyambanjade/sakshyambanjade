@@ -1,4 +1,4 @@
-![logo]([https://i.ibb.co/zGW3kHt/ska.png](https://lh3.googleusercontent.com/pw/AL9nZEWIXVoMKQ0jAYa0bODtRwtBgbx3F7yKWR9aogNFf5aTY3-r2zU1l_FaN7OpWzSE9cSirUBJno5vyPUaj3JcFKh2gIWcGjwJeCGbKoXbCLzOdBRrX8Ss49MLrBJezeuIBK6e1mxzFVFLhGqEU2bTdII=w958-h537-no))
+
 <h1 align="center">Hi 👋, I'm Sakshyam Banjade</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 

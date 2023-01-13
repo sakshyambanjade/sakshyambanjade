@@ -16,22 +16,6 @@
  
 
   
-
-<a href="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif" </a> 
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-
-
-
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banjadesakshyam" alt="banjadesakshyam" /></a> </p>
 
@@ -64,7 +48,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=banjadesakshyam&show_icons=true&locale=en&layout=compact" alt="banjadesakshyam" /></p>
  -->
  
- 
+ <p align="left"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"/> </p>
  
  
  

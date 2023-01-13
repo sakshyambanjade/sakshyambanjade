@@ -64,7 +64,7 @@
 
 
  
- 
+ <p align="left"> <img src="https://commons.wikimedia.org/wiki/File:Animated-Flag-Nepal.gif#/media/File:Animated-Flag-Nepal.gif"/> </p>
  
  
  

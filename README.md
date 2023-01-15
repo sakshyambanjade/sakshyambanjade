@@ -1,7 +1,4 @@
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="span" style="width: 55%" />
-</div>
 <p align="center">सक्षम नाम काफी छ</p>
 <h3 align="center">A passionate frontend developer.</h3>
 
@@ -61,7 +58,9 @@
  </br>
  
 <h3 align="left">Proudly</h3> 
- <p align="left"> 🇳🇵🇳🇵</p>
+ <div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Animated-Flag-Nepal.gif" align="span" style="width: 55%" />
+</div>
 
 
 

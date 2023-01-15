@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
 </div>
 <p align="center">सक्षम नाम काफी छ</p>
 <h3 align="center">A passionate frontend developer.</h3>

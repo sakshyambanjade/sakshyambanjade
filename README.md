@@ -58,13 +58,13 @@
  
  </br>
  
-<h3 align="left">Proudly :</h3> 
+<h3 align="left">Center :</h3> 
  <p align="left"> 
 
 
 
  
- <p align="left"> <img src="https://www.deviantart.com/kasperball/art/Rectangle-flag-Nepal-888490994"/> </p>
+ <img src="https://www.deviantart.com/kasperball/art/Rectangle-flag-Nepal-888490994"/> 
  
  
  

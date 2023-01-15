@@ -59,7 +59,7 @@
  
 <h3 align="left">Proudly</h3> 
  <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Animated-Flag-Nepal.gif" align="span" style="width: 55%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Animated-Flag-Nepal.gif" align="center" style="width: 35%" />
 </div>
 
 

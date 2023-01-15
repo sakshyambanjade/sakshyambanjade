@@ -17,7 +17,7 @@
 
   
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banjadesakshyam" alt="banjadesakshyam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshyambanjade" alt="sakshyambanjade" /></a> </p>
 
 
 

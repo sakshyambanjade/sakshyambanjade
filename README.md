@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sakshyambanjade&&style=flat-square" align="center" />
+</div>  
 <p align="center">सक्षम नाम काफी छ</p>
 <h3 align="center">A passionate frontend developer.</h3>
 
@@ -57,7 +59,7 @@
  
  </br>
  
-<h3 align="left">Proudly</h3> 
+<h3 align="left">Proudly:</h3> 
  <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Animated-Flag-Nepal.gif" align="center" style="width: 35%" />
 </div>

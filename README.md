@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate Full Stack developer.</h3>
 
-<p align="left"> <img src="https://lh3.googleusercontent.com/pw/AL9nZEWIXVoMKQ0jAYa0bODtRwtBgbx3F7yKWR9aogNFf5aTY3-r2zU1l_FaN7OpWzSE9cSirUBJno5vyPUaj3JcFKh2gIWcGjwJeCGbKoXbCLzOdBRrX8Ss49MLrBJezeuIBK6e1mxzFVFLhGqEU2bTdII=w958-h537-no" /> </p>
+<p align="center"> <img src="https://lh3.googleusercontent.com/pw/AL9nZEWIXVoMKQ0jAYa0bODtRwtBgbx3F7yKWR9aogNFf5aTY3-r2zU1l_FaN7OpWzSE9cSirUBJno5vyPUaj3JcFKh2gIWcGjwJeCGbKoXbCLzOdBRrX8Ss49MLrBJezeuIBK6e1mxzFVFLhGqEU2bTdII=w958-h537-no" /> </p>
 
 
 
@@ -20,7 +20,7 @@
 
   
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshyambanjade" alt="sakshyambanjade" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshyambanjade" alt="sakshyambanjade" /></a> </p>
 
 
 
@@ -51,7 +51,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=banjadesakshyam&show_icons=true&locale=en&layout=compact" alt="banjadesakshyam" /></p>
  -->
  
- <p align="left"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"/> </p>
+ <p align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"/> </p>
  
  
  
@@ -61,7 +61,7 @@
  
  </br>
  
-<h3 align="left">Proudly:</h3> 
+<h3 align="center">Proudly:</h3> 
  <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Animated-Flag-Nepal.gif" align="center" style="width: 35%" />
 </div>

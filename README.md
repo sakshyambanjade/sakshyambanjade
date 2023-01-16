@@ -2,7 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=sakshyambanjade&&style=flat-square" align="center" />
 </div>  
 <p align="center">सक्षम नाम काफी छ</p>
-<h3 align="center">A passionate frontend developer.</h3>
+
+<h3 align="center">A passionate Full Stack developer.</h3>
 
 <p align="left"> <img src="https://lh3.googleusercontent.com/pw/AL9nZEWIXVoMKQ0jAYa0bODtRwtBgbx3F7yKWR9aogNFf5aTY3-r2zU1l_FaN7OpWzSE9cSirUBJno5vyPUaj3JcFKh2gIWcGjwJeCGbKoXbCLzOdBRrX8Ss49MLrBJezeuIBK6e1mxzFVFLhGqEU2bTdII=w958-h537-no" /> </p>
 

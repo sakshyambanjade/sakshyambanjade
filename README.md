@@ -28,7 +28,6 @@
    
 - 📫 How to reach me **sakshyambanjade@gmail.com**
 
-- Intrested in Frontend Intership [full time]
 
 
 

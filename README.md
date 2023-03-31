@@ -1,5 +1,5 @@
 <div align="center">
- <p align="center">सक्षम नाम काफी छ</p>
+ <h1 align="center">सक्षम नाम काफी छ</h1>
       </br>
 <img src="https://komarev.com/ghpvc/?username=sakshyambanjade&&style=flat-square" align="center" />
 </div>  

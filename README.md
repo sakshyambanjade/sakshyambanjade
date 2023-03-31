@@ -1,8 +1,10 @@
 <div align="center">
+ <p align="center">सक्षम नाम काफी छ</p>
+      </br>
 <img src="https://komarev.com/ghpvc/?username=sakshyambanjade&&style=flat-square" align="center" />
 </div>  
 </br>
-<p align="center">सक्षम नाम काफी छ</p>
+
       
 <h3 align="center">A passionate Full Stack developer.</h3>
 

@@ -67,7 +67,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Animated-Flag-Nepal.gif" align="center" style="width: 35%" />
 </div>
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sakshyam" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/sakshyam?trk=profile-badge">Sakshyam Banjade</a></div>
+              
 
  
  

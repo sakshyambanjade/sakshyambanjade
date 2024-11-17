@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **front-end web development**
 
-- 📫 How to reach me **sakshyambanjade@gmail.com**
+- 📫 How to reach me **info@sakshyambanjade.com.np**
 
 - 🌐 Checkout **www.sakshyambanjade.com.np**
 
